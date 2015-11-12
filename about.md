@@ -1,10 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### About Me
+I am Tianyuan Liu, currently a first year Ph.D. student at the Department of
+Computer Science, UIUC. I work with professor [Klara Nahrstedt] (http://cairo.cs.illinois.edu/klara.html)
+on ARMORE project (Applied Resiliency for More Trustworthy Grid Operation). My
+research interest includes network systems and security.
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
