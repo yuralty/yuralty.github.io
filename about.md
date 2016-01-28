@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="float:right;margin:0 10px 10px 0" markdown="1">
-    ![profile]({{ site.url }}/assets/profile.png)
+![profile]({{ site.url }}/assets/profile.png)
 </div>
 
 I am Tianyuan Liu, currently a first year Ph.D. student at the Department of
