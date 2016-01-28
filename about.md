@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-<div style="width:128px;height:128px;float:right;margin:0 10px 10px 0" markdown="1">
-![profile]({{ site.url }}/assets/profile.jpg)
+<div style="float:right;margin:0 10px 10px 0" markdown="1">
+![profile]({{ site.url }}/assets/profile.jpg =250x)
 </div>
 
 I am Yura (Tianyuan Liu), currently a first year Ph.D. student at the Department of
