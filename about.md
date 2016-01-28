@@ -4,17 +4,24 @@ title: About Me
 permalink: /about/
 ---
 
+<div style="float:right;margin:0 10px 10px 0" markdown="1">
+    ![profile](/_includes/profile.png)
+</div>
+
 I am Tianyuan Liu, currently a first year Ph.D. student at the Department of
 Computer Science, UIUC. I work with professor [Klara Nahrstedt](http://cairo.cs.illinois.edu/klara.html)
-on ARMORE project (Applied Resiliency for More Trustworthy Grid Operation). My
-research interest includes network systems and security.
+on [CREDC](http://cred-c.org/) project (Cyber Resilient Energy Delivery
+Consortium). My research interest includes network systems and security.
 
 Check my CV [here](http://yuralty.github.io/resume.pdf).
 
 ### My Research
 
+[CREDC](http://cred-c.org/)
 
-empty
+### Interesting Projects
+[Dotfiles](https://github.com/yuralty/.dotfiles): my personalized
+configuration for terminal environment including vim, zsh, tmux and powerline
 
 
 
