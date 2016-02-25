@@ -4,9 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<div style="float:right;margin:0 10px 10px 0" markdown="1">
-![profile]({{ site.url }}/assets/profile.png)
-</div>
+<img src="{{ site.url }}/assets/profile.jpg" style="float:right;width:250px;height:250px">
 
 I am Yura (Tianyuan Liu), currently a first year Ph.D. student at the Department of
 Computer Science, UIUC. I work with professor [Klara Nahrstedt](http://cairo.cs.illinois.edu/klara.html)
